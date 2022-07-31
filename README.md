@@ -1,4 +1,9 @@
 # Weather-App-Node-JS
-<image src="images/nodejs-1-logo.png" align=center height=100px width=100px>
-<image src="images/weather.png" align=center height=100px width=100px>
+<p align="left">
+  <img src="images/nodejs-1-logo.png" height=150px width=150px>
+</p>
+<p align="center">
+  <img src="images/weather.png" height=150px width=150px>
+</p>
+
 
