@@ -7,7 +7,32 @@
   <li> Express JS.</li>
   <li> Dynamic and static tempelating using handlebars.</li>
   <li> Accessing API from the browser. </li>
+  <li> WeatherStack and Geocode API. </li>
 </ol>
-
-
+## Installation and Setup
+Install NodeJS and initialise npm
+```Bash
+node -v
+npm init
+```
+Install npm package requests to make HTTP requests
+```Bash
+npm i request
+```
+Install npm package Express to create web servers
+```Bash
+npm i express
+```
+Install npm package hbs for dynamic tempelates
+```Bash
+npm i hbs
+```
+To run the app
+```Bash
+node src/app.js
+```
+Copy this url to the browser to run the app
+```Bash
+http://localhost:3000/
+```
 
