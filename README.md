@@ -9,7 +9,7 @@
   <li> Accessing API from the browser. </li>
   <li> WeatherStack and Geocode API. </li>
 </ol>
-## Installation and Setup
+<h2> Installation and Setup</h2>
 Install NodeJS and initialise npm
 ```Bash
 node -v
