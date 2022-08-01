@@ -10,6 +10,8 @@
   <li> WeatherStack and Geocode API. </li>
 </ol>
 <h2> Installation and Setup</h2>
+
+
 Install NodeJS and initialise npm
 ```Bash
 node -v
